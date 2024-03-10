@@ -1,0 +1,29 @@
+/* Add this to your CSS file or use a CSS-in-JS solution */
+
+body {
+    background-color: #ba4c4c; /* Set a light background color for the entire page */
+  }
+  
+  .container {
+    background-color: #ffffff; /* Set a white background color for the sign-up container */
+    border-radius: 8px; /* Add some border-radius for rounded corners */
+    padding: 16px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
+  }
+  
+  .avatar {
+    background-color: #1976D2; /* Set a background color for the avatar */
+  }
+  
+  .form {
+    margin-top: 24px; /* Add some top margin to the form */
+  }
+  
+  .link {
+    color: #1976D2; /* Set a primary color for the link */
+  }
+  
+  .link:hover {
+    text-decoration: underline; /* Add underline effect on hover for the link */
+  }
+  
